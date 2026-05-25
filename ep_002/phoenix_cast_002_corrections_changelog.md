@@ -91,10 +91,14 @@ Raw transcript labeled 4 speakers. Mapped as follows:
 
 ---
 
-## 6. Twitter/X handle
+## 6. Media mentioned
+
+None mentioned in this episode. Ep 2 is a structural deep-dive on cloud service models (IaaS / PaaS / SaaS) and Marine Corps software-development policy — Kyle, Rich, John, and Pat all stick to principles, lived experience, and product/tool references (Office 365, Gmail, Wireshark, Terraform, etc.) without pointing listeners to specific books, podcasts, articles, or other primary-media artifacts.
+
+## 7. Twitter/X handle
 
 This is an early episode (May 2020) — the outro references **@USMC_TFPHOENIX** ("USMC underscore TF Phoenix"), which matches the early-show handle. No correction needed; the handle later changed to @ThePhoenixCast.
 
-## 7. Marketing/editor credits
+## 8. Marketing/editor credits
 
 This episode's outro does not include editor/marketing credits, so the Hector Alejandro / Jake Osborne / Sarah Clarkson sanity-check list is not applicable here.
