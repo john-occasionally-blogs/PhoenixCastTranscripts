@@ -76,6 +76,15 @@ Raw transcript labeled 3 speakers. Mapped as follows:
 
 ---
 
-## 6. Twitter/X handle
+## 6. Media mentioned
+
+| # | Type | Title | Author / Creator | Mentioned by | Approx. timestamp | Context |
+|---|------|-------|------------------|---------------|-------------------|---------|
+| 1 | Film series | _The Lord of the Rings_ trilogy | J.R.R. Tolkien / Peter Jackson | Kyle | 00:04:57 | Analogy for how long the AI/ML journey actually takes — "we're going all the way to Mordor and back. This is not _The Hobbit_. This is the full _Lord of the Rings_ trilogy." |
+| 2 | Film / novel | _The Hobbit_ | J.R.R. Tolkien / Peter Jackson | Kyle | 00:04:57 | Same exchange as above — short reference within the same analogy. |
+
+**Note:** Ep 1 has very few explicit media recommendations — the conversation is mostly principles and lived experience, not pointers to outside reading. The two entries above are pop-culture analogies rather than recommendations John would necessarily want to track, but they qualify under the inclusive criteria in the skill.
+
+## 7. Twitter/X handle
 
 This is an early episode — the outro references **@USMC_TFPHOENIX** ("USMC underscore TF Phoenix"), which matches the early-show handle. No correction needed; the handle later changed to @ThePhoenixCast.
