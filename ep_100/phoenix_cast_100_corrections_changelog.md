@@ -34,7 +34,7 @@ No "Unknown (SPEAKER_NN)" speakers - all four voices identified.
 | David Marquette | David Marquet | Author of "Turn the Ship Around!"; correct surname is Marquet (L. David Marquet). |
 | Tim Grant | Tim Gramp | Whisper transcribed as "Tim Grant" once but earlier in the same conversation as "Mr. Gramp" (the SES at Marine Corps Systems Command Craig references). Normalized to "Gramp" for consistency. |
 | Cape Duluth's development directorate | Capabilities Development Directorate (CDD) | Whisper phonetic miss - Craig explicitly precedes it with "CDD". |
-| Persajian (General) | Persajian (left as-is) | Could not verify spelling via web search; preserved Whisper's spelling. Noted in "Things left alone." |
+| Persajian (General) | **Pasagian** (General) | Confirmed by John post-publication — General Pasagian is the correct spelling (prior Phoenix Cast guest). Applied at both `[00:11:00]` (Craig's intro of the meeting) and the follow-up question. |
 | Rick Boops | Rick Boops (left as-is) | No public confirmation either way; preserved verbatim. |
 | Bill Vivian | Bill Vivian (left as-is) | No web hit to disconfirm; preserved verbatim. |
 | Eric (Rich's buddy) | Eric (left as-is) | First name only; preserved. |
@@ -135,7 +135,7 @@ No "Unknown (SPEAKER_NN)" speakers - all four voices identified.
 | 9 | Paper | "The Rise of Cyber Physical Systems" | Chandrakant Patel (HPE / HP Labs) | Rich | [01:02:47] | Rich heard Dr. Patel speak at Hewlett-Packard; paper from November of the prior year argues for blended engineering disciplines (chem/mech/industrial) alongside software. |
 | 10 | Book | _The Dragons and the Snakes: How the Rest Learned to Fight the West_ | David Kilcullen | Rich | [01:02:47] | Source of the "cyber kinetics" concept Rich uses for his second knife hand. |
 | 11 | Person reference | Gene Kim | (DevOps author - _The Phoenix Project_, _Accelerate_) | Rich | [00:04:13] | Cited as one of the early inspirations for John and Rich's MARFORCYBER work. No specific book named in-episode, but the name-drop is significant. |
-| 12 | Past Phoenix Cast episode | General Persajian episode | Phoenix Cast | Craig | [00:11:00] | "He was one of your guests on a previous episode." |
+| 12 | Past Phoenix Cast episode | General Pasagian episode | Phoenix Cast | Craig | [00:11:00] | "He was one of your guests on a previous episode." |
 | 13 | Past Phoenix Cast episode | Rick Boops episode (Warfighter Support Division) | Phoenix Cast | Craig | [00:45:29] | "Rick Boops had been on the show with you guys before." |
 | 14 | Past Phoenix Cast episode | Tim Gramp episode (MARCORSYSCOM SES) | Phoenix Cast | Craig and Rich | [00:45:29], [01:02:47] | "Mr. Gramp, who was on your show"; Rich also references "listening to Tim Gramp talk before when he was on the cast." |
 
@@ -156,7 +156,6 @@ In addition to the media above, Kyle's opening trivia segment surfaces several a
 
 ## 8. Things Left Alone
 
-- **"General Persajian"** - Could not confirm spelling via web search; preserved Whisper's spelling rather than guess. May be "Pershing," "Persajian," or a different romanization of a Marine general officer who commanded acquisition leadership circa Craig's transition. Recommend John verify against the prior episode guest list.
 - **"Rick Boops"** - Preserved verbatim. No web confirmation either way; appears to be a real person at MCTSSA's Warfighter Support Division.
 - **"Bill Vivian"** - Preserved verbatim. Craig identifies as a retired Colonel, former CO of 7th Marine Regiment; no quick web confirmation of spelling.
 - **"Moscato"** - Preserved Whisper's rendering of Kyle's surname (referenced in third person as "young Corporal Moscato"); appears to be Kyle's actual surname.
