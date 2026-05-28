@@ -23,7 +23,7 @@ Kyle Moschetto (the civilian co-host) is **not present** in this episode; Rich e
 | Shriner | **Schreiner** | Host's standard spelling on the cast |
 | Russ Belt (no change) | **Russ Belt** (Col., G6 II MEF) | [MCU Awards/Commencement reference to LtCol Russell A. Belt II](https://www.usmcu.edu/Portals/218/SchoolFiles/MCUAwardsCommencement.pdf?ver=2020-06-01-115235-870) |
 | Kevin Stepp (no change) | **Kevin Stepp** (Col., G6 I MEF) | [I MEF G-6 Leader bio](https://www.imef.marines.mil/Leaders/I-MEF-Leaders/Article/1189802/lt-col-kevin-j-stepp/) ; [Kevin J. Stepp LinkedIn](https://www.linkedin.com/in/kjstepp/) |
-| Matt Schrayer | **Matt Schraer** | Repeated reference to HQMC IC4 leader; both spellings appeared in Whisper output — standardized to "Schraer". See [HQMC IC4 leadership page](https://www.hqmc.marines.mil/DirC4Bio/) |
+| Matt Schrayer / Matt Schraer | **Matt Schroer** (Col., IC4 action officer, HQMC) | User-confirmed (John Schreiner). Same individual who was the Ep 122 guest (Whisper there rendered it "Trayer"). Multiple Whisper variants — all normalized to "Schroer." |
 | Josh Nunn (no change) | **Josh Nunn** | [LtCol Joshua N. Nunn II MEF bio](https://www.iimef.marines.mil/About/Leaders/Article-View/Article/2231117/lieutenant-colonel-joshua-n-nunn/) |
 | Jeff Pate (no change) | **Jeff Pate** (III MEF G6) | [III MEF G6 staff section](https://www.iiimef.marines.mil/Staff-Sections/G6/) — exact officer name not surfaced; transcript spelling retained. |
 | Sarah Clarkson (no change) | **Sarah Clarkson** (editor) | Recurring credit across Phoenix Cast outros. |
@@ -141,7 +141,6 @@ Kyle Moschetto (the civilian co-host) is **not present** in this episode; Rich e
 - **"Tai Expeditionary Communicator Program"** — Russ's II MEF internal training/testing program. Could plausibly be **"TIE"** (Two-MEF Internal Expeditionary?) or a separate locally-coined name. Russ's "I'm sorry, it's not changing" apology implies the name itself is the subject of some complaint, but no public reference surfaced. Left as transcribed; if listener has the real spelling, update here.
 - **"Glenn"** — Russ says "John and Glenn obviously did a great job as well." Referent unclear from context (possibly another IC4 leader or prior cast guest); spelling and inclusion retained.
 - **"Jeff Pate"** — III MEF G6. The official III MEF G6 page does not surface a current officer name in search; "Pate" retained as transcribed.
-- **"Matt Schraer"** vs **"Matt Schrayer"** — Whisper produced both; standardized to "Schraer." If the official spelling is "Schrader" or another variant, update here.
 - **Verbal tics and repetitions** (e.g., "to, to, to", "in, in, in") — preserved to keep the verbatim conversational feel of the cast.
 - **"do do"** in "I think what we do do that is similar" — preserved (Kevin's actual phrasing).
 - **"Jon" → "John"** applied universally for the host. Russ at one point says "Jon" addressing John in his opening; normalized to "John" per show convention.
