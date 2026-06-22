@@ -33,6 +33,7 @@ Corrected transcript: `phoenix_cast_139_qintel_transcript_corrected.md`
 | 9 | "General Petraeus … Multash Force Iraq commander, early 2008" | **Gen. David Petraeus, Multi-National Force–Iraq (MNF-I) commander** (commanded MNF-I 2007–2008) | Public record |
 | 10 | "General Paxton" | **Gen. John M. Paxton Jr.** (former Assistant Commandant of the Marine Corps) — likely referent | Public record (name as spoken) |
 | 11 | "Sea-Air-Space" (heard "Sierra in space") | **Sea-Air-Space** (Navy League exposition) | Navy League |
+| 12 | "Anderson … ARES commander" | **Lt. Gen. Leonard F. "Loni" Anderson IV** — at the time Deputy Commander, Joint Task Force-ARES (and Deputy CG, MARFORCYBER); now Commander, Marine Forces Reserve (MARFORRES) and Marine Forces South | MARFORRES / DVIDS bios |
 
 ## 3. Technical-term / acronym corrections (domain knowledge + AI inference)
 
@@ -42,7 +43,7 @@ Corrected transcript: `phoenix_cast_139_qintel_transcript_corrected.md`
 | 2 | "TRU officer" | **GRU officer** | Russian military intelligence. |
 | 3 | "SIGN" | **SIGINT** | Signals intelligence. |
 | 4 | "close target economy" | **close target reconnaissance** | Standard ISR/CTR phrasing. |
-| 5 | "Ares commander" / "to the tangential Anderson" | **MARSOC commander** / "to General Anderson" | Context: delegated CI/HUMINT authority routing for a MARSOC cyber approval. |
+| 5 | "to the tangential Anderson" | **to General Anderson** | Damon's MARSOC HUMINT/CI authority had to route the cyber piece to Gen. Anderson on the JTF-ARES side for approval. (Note: "ARES commander" was transcribed correctly and is NOT a mis-hearing of "MARSOC" — see §2, row 12.) |
 | 6 | "Marcin" | **MARSOC** | U.S. Marine Forces Special Operations Command. |
 | 7 | "two X from sitcom" | **the J2X from SOCOM** | J2X = the HUMINT/CI staff element. |
 | 8 | "high marks" | **HIMARS** | High Mobility Artillery Rocket System. |
@@ -80,7 +81,7 @@ No books, podcasts, articles, or papers were explicitly recommended in this epis
 - **N2N6 / Director of Naval Intelligence quote (~00:20:00).** Damon attributes a "general contractor" quote to a senior Navy intelligence leader, transcribed as "Jen Edgen." The name could not be verified and is almost certainly garbled by the transcriber, so it is rendered in the transcript as "[a senior Navy intelligence leader]." (Context note: as of May 2026 the Navy disestablished OPNAV N2N6 and named Steve Parode acting Director of Naval Intelligence — which does not match the transcribed name, reinforcing that the audio name is unreliable.)
 - **"Sergey Mikhailov, a GRU officer" (~00:03:54).** Used by Keith as an illustrative attribution example; spelling normalized but the specific individual is not verified (offered as a hypothetical).
 - **"Brigadier General Keller, J-2 [MNF-I], early 2008" (~00:14:02).** Name kept as spoken; not independently verified.
-- **General "Anderson," MARSOC commander / "former guest of the cast" / "loves bourbon" (~00:17:55).** Surname kept as spoken; specific identity not verified.
+- **General "Anderson" (~00:16:00–00:18:04)** — identified (per John) as **Lt. Gen. Leonard F. "Loni" Anderson IV**, now CG of Marine Forces Reserve; at the time he ran Joint Task Force-ARES, which is why the cyber-side approval routed to him while Damon held the MARSOC HUMINT/CI authority. Referenced as a "former guest of the cast" who "loves bourbon."
 - **"PREP"** and **"J sets"/target references** around the collection discussion — kept close to as-spoken where the exact term/program was unclear.
 - **"over 80 arrests"** (Keith, DarkMarket) — left as the speaker stated it; public reporting commonly cites "more than 60." Not altered (verbatim claim).
 - Filler words and false starts were lightly cleaned for readability; wording preserved.
