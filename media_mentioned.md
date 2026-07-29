@@ -10,3 +10,6 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 141 | Film | _Starship Troopers_ | Paul Verhoeven (1997; from the Robert A. Heinlein novel) | Rich | 00:56:40 | "Everybody fights, no one quits" quoted in defense of the enlisted ranks. |
 | 141 | Film series | _Harry Potter_ | J.K. Rowling | Kyle | 00:51:15 | Casual "magic wand" hypothetical about reorganizing NSA/CYBERCOM. |
 | 141 | Film | _Back to the Future_ | Robert Zemeckis (1985) | John | 01:14:52 | Framing for the final question — Four-Star Haugh advising Second Lieutenant Haugh. |
+| 128 | Book | _Range_ | David Epstein | Kyle | 01:04:22 | Explicit recommendation in his hot take on cross-training vs. specialization. |
+| 128 | Book | _Ender's Game_ | Orson Scott Card | John | 00:32:23 | Gamification of training — war fighting without knowing you're war fighting. |
+| 128 | Publication | MCDP 1 _Warfighting_ ("the green book") | U.S. Marine Corps | Rich | 00:27:43 | License to innovate with stubby-pencil warfighting concepts outside formal curriculum. |
