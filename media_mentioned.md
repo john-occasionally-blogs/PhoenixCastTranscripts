@@ -17,3 +17,11 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 121 | Publication | MCDP 1-4 _Competing_ | U.S. Marine Corps (Gen. David Berger) | Rich | 00:15:48 | "The quintessential manifestation of that pub"; five quotes structure his knife hand. |
 | 121 | Essay | "A Message to Garcia" | Elbert Hubbard | Brian Kerg (guest) | 00:25:36 | Teams get the task and are expected to figure out the how. |
 | 121 | TV show | _Game of Thrones_ | HBO (from George R.R. Martin) | Kyle | 00:48:52 | Casual "destination television" reference in the hot take. |
+| 102 | Book | _Trust Me, I'm Lying: Confessions of a Media Manipulator_ | Ryan Holiday | Kyle | 00:13:37 | "Highly recommend" — marketing as manipulation by design; step two of his media-literacy syllabus. |
+| 102 | Paper | "Common-Knowledge Attacks on Democracy" | Bruce Schneier & Henry Farrell (Harvard) | Pablo Breuer (guest) | 00:53:02 | Common vs. contested political knowledge; why election-legitimacy attacks hit democracy's foundation. |
+| 102 | Film | _Dogma_ (1999) | Kevin Smith | Kyle | 00:56:16 | Rufus quote — "better to have ideas… changing a belief is trickier." |
+| 102 | Book | _The Demon-Haunted World_ | Carl Sagan | Kyle | 00:56:45 | Politically-neutral primer on professional skepticism. |
+| 102 | Book | _LikeWar: The Weaponization of Social Media_ | P.W. Singer & Emerson Brooking | Pablo Breuer (guest) | 01:00:37 | Guest's closing recommendation. |
+| 102 | Book | _How to Lose the Information War_ | Nina Jankowicz | Pablo Breuer (guest) | 01:00:46 | Survey of Russian disinformation methods. |
+| 102 | Publication | MCWP 8-10 _Information in Marine Corps Operations_ | U.S. Marine Corps | Rich | 00:59:35 | Pair the doctrine with DISARM to operationalize information. |
+| 102 | TV show | _Last Week Tonight_ | HBO (John Oliver) | Pablo Breuer (guest) | 00:20:07 | Comparison for Ukraine's pre-invasion anti-disinfo talk show. |
