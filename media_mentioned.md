@@ -25,3 +25,8 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 102 | Book | _How to Lose the Information War_ | Nina Jankowicz | Pablo Breuer (guest) | 01:00:46 | Survey of Russian disinformation methods. |
 | 102 | Publication | MCWP 8-10 _Information in Marine Corps Operations_ | U.S. Marine Corps | Rich | 00:59:35 | Pair the doctrine with DISARM to operationalize information. |
 | 102 | TV show | _Last Week Tonight_ | HBO (John Oliver) | Pablo Breuer (guest) | 00:20:07 | Comparison for Ukraine's pre-invasion anti-disinfo talk show. |
+| 101 | Book | _Range: Why Generalists Triumph in a Specialized World_ | David Epstein | Kyle | 00:29:53 | Multidisciplinary breadth as the key AI advantage. |
+| 101 | Article | "NDAA to include cyber force study" | DefenseScoop (June 14, 2024) | John | 00:41:03 | News hook for the cyber-force segment. |
+| 101 | Paper | "United States Cyber Force: A Defense Imperative" | FDD | John | 00:43:02 | "We are in alignment with the FDD… let's continue to study it." |
+| 101 | Film series | _The Lord of the Rings_ | J.R.R. Tolkien / Peter Jackson | Kyle | 00:29:03 | Casual — "You have my sword, my axe, my bow." |
+| 101 | Film | _The Matrix_ | The Wachowskis | Kyle | 00:43:56 | Casual — "Do you call them a Neo?" (uncertain) |
