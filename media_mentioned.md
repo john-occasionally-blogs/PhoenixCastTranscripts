@@ -110,3 +110,6 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 30 | Book | _The Demon-Haunted World_ | Carl Sagan | Kyle | 00:36:44 | Professional-level skepticism of everything you see — "my default is distrust." |
 | 30 | Podcast | Packet Pushers | Packet Pushers Interactive | John | 00:53:15 | Cyber-insurance premiums rising as insurers field their own incident-response teams. |
 | 30 | Website | Duffel Blog (and The Onion) | — | Gen. Anderson / John | 00:41:08 | Satire he enjoys knowingly — vs. the misattributed Commandant quote that caused a national uproar. |
+| 29 | Website | Trend Micro's ransomware definition | Trend Micro | John | 00:01:36 | "I went to my good friend, the Googles" — the working definition the episode riffs on. |
+| 29 | Film | _Hackers_ (1995) | Iain Softley (dir.) | Kyle | 00:05:46 | Social engineering "is literally the opening scene" — "my favorite movie of all time." |
+| 29 | Website | CrowdStrike and FireEye threat reporting | CrowdStrike / FireEye (Mandiant) | Kyle | 00:43:48 | "They have really good reporting on these things" — where to follow the evolving story. |
