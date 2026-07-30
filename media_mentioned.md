@@ -79,3 +79,10 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 43 | Online course | A Cloud Guru | Pluralsight | Kyle | 00:18:45 | "Learn anything you want about any piece of technology that relates to any cloud provider." |
 | 43 | Website | YouTube | Google | Kyle | 00:18:54 | "Learn how to do anything" — a single 10-minute video at double speed. |
 | 43 | Book | _Drive_ (title inferred — Pink's money/motivation argument) | Daniel Pink | Kyle | 00:28:39 | "Make just enough money where money's not the issue" — incentives beyond pay. |
+| 41 | Article | "IT Doesn't Matter" (Harvard Business Review, 2003) | Nicholas Carr | Rich | 00:16:20 | Recommended self-education: IT, like steam power and electricity, becomes part of doing business; "we'll put it in our show notes." |
+| 41 | Film | _A Bronx Tale_ (1993) | Robert De Niro (dir.) / Chazz Palminteri | Gen. Pasagian | 00:21:16 | "Now youse can't leave" — his metaphor for locking users in the room for DevOps. |
+| 41 | Book | _World War Z_ | Max Brooks | Gen. Pasagian | 00:41:21 | Marines invented the "Lobotomizer" from scrap steel — frugal, purposeful ingenuity as the public sees the Corps. |
+| 41 | Podcast | MARCORSYSCOM's podcast (_Equipping the Corps_ — name not spoken in-episode) | MCSC public affairs (Manny Pacheco) | John / Gen. Pasagian | 00:49:17 | The infantry gunner's Loctite episode; "any communications media is welcome in my book." |
+| 41 | Book | _Wolfpack: How to Come Together, Unleash Our Power, and Change the Game_ | Abby Wambach | Rich | 00:55:42 | Knife hand #1 — change your leadership style to the need; step up and "give me the ball." |
+| 41 | Poem | "The Law of the Jungle" ("the strength of the pack is the wolf…") | Rudyard Kipling | Rich | 00:55:20 | Quoted to frame acquisition as a team effort. |
+| 41 | Course | Computer Science 50 (CS50) | Harvard University | Rich | 00:17:30 | Ivy League schools now expect every freshman to understand computer science. |
