@@ -100,3 +100,8 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 37 | Publication | SECNAVINST 1412.9B (LDO/CWO instruction) | Department of the Navy | Leila Dumanis | 00:12:36 | "For anybody that wants a little light reading… this is a trap, don't do it" — the definitions of warrant and limited duty officers. |
 | 37 | Book | _Freedom's Forge_ (spoken as "Forge of Freedom") | Arthur Herman | Rich | 01:01:14 | Read at NDU's top-level school — how the private sector feeds public-sector solutions without the nation losing speed. |
 | 37 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 00:35:33 | Education vs. training; simulating the most severe environment still isn't experiencing it. |
+| 31 | Documentary | _The Social Dilemma_ | Jeff Orlowski (Netflix) | Gen. Reynolds | 00:45:39 | "Required watching for every Marine" — algorithmic warfare is happening to you; Kyle closes the show with "Go watch Social Dilemma." |
+| 31 | Book | _Team of Teams_ | Gen. Stanley McChrystal | Rich | 01:07:24 | Trust and aligning resources to common purpose equal outcomes — paired with MCDP 7 in the knife hand. |
+| 31 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 01:07:16 | "Education and training equal competence." |
+| 31 | Publication | Marine Corps Network Modernization Plan (version two) | DC I / U.S. Marine Corps | Gen. Reynolds / John | 00:24:27 | Gathers all network spending in one portfolio; "we have plugged that net mod plan in previous podcasts." |
+| 31 | Publication | Force Design 2030 | Gen. David Berger | Rich / Gen. Reynolds | 00:50:07 | "No other service modernization effort that is as coherent"; the stand-in/sensing force and information's place in it. |
