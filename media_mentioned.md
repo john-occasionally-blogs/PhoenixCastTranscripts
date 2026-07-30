@@ -97,3 +97,6 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 39 | Book | _The Art of War_ (implied) | Sun Tzu | John / Olivia Garard | 00:11:16 | "Mr. Sun Tzu would disagree… never have to fire a shot"; vs. Clausewitz on bluffing. |
 | 39 | Publication | MCDP 1, _Warfighting_ | U.S. Marine Corps | Olivia Garard | 00:03:01 | Guide to Tactics "sounded exactly like MCDP 1" — why she published it. |
 | 39 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 00:54:11 | Education vs. training and the making of military genius. |
+| 37 | Publication | SECNAVINST 1412.9B (LDO/CWO instruction) | Department of the Navy | Leila Dumanis | 00:12:36 | "For anybody that wants a little light reading… this is a trap, don't do it" — the definitions of warrant and limited duty officers. |
+| 37 | Book | _Freedom's Forge_ (spoken as "Forge of Freedom") | Arthur Herman | Rich | 01:01:14 | Read at NDU's top-level school — how the private sector feeds public-sector solutions without the nation losing speed. |
+| 37 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 00:35:33 | Education vs. training; simulating the most severe environment still isn't experiencing it. |
