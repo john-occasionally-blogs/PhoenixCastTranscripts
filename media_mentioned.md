@@ -60,3 +60,14 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 66 | Publication | _Talent Management 2030_ | U.S. Marine Corps (Gen. Berger) | Jessica Hyde (guest) | 00:52:47 | "Listening in my car cheering"; frames her retention advice. |
 | 66 | Online course | A Cloud Guru | Pluralsight | Kyle | 01:12:16 | Favorite cloud training site. |
 | 66 | Online course | Hexordia free mobile-forensics courses | Jessica Hyde | Jessica Hyde (guest) | 01:09:50 | Five free bite-sized courses; endorsed in Kyle's hot take. |
+| 61 | Book | _The Village_ | Bing West | Scott Cuomo (guest) | 00:44:05 | Mandatory reading for his IOC class and Afghanistan squad leaders; John: "Every Marine officer I know has read that book." |
+| 61 | Book | _Fleet Tactics_ | Capt. Wayne Hughes, USN | Scott Cuomo (guest) | 00:22:03 | Source of the scouting/screening framing behind RXR. |
+| 61 | Article | Commandant Berger's Military Review recon/counter-recon article (spring 2021) | Gen. David Berger | Scott Cuomo (guest) | 00:21:15 | Where RXR was laid out. |
+| 61 | Article | ACMC stand-in forces article in Proceedings | Gen. Eric Smith | Scott Cuomo (guest) | 00:22:48 | Senior leaders using the RXR vocabulary. |
+| 61 | Article | "The Strategic Corporal" | Gen. Charles Krulak | Scott Cuomo (guest) | 00:13:04 | "Strategic sergeants… maybe strategic lieutenants" extension. |
+| 61 | Article | Owen West's Force Design critique + Cuomo's response | War on the Rocks | John | 00:42:09 | The exchange the episode dissects. |
+| 61 | Article | The "On the Ground Truth" Force Design article | Task Force 61/2 authors | Scott Cuomo (guest) | 00:40:51 | Maritime sensing plus certified night attacks. |
+| 61 | Podcast | _War on the Rocks_ | Ryan Evans | Kyle | 00:02:45 | "Fabulous podcast"; Gen. Donovan's episode flagged by John. |
+| 61 | Film | _A Few Good Men_ | Rob Reiner (1992) | John | 00:28:21 | "You want me on that wall" — how movies bound institutional thinking. |
+| 61 | Publication | FMFM 1 → MCDP 1 _Warfighting_ | U.S. Marine Corps | Scott Cuomo (guest) | 00:52:44 | Born of Gen. Gray's movie-theater force-on-force debriefs. |
+| 61 | Book | _Range: Why Generalists Triumph in a Specialized World_ | David Epstein | Kyle | 01:18:22 | Hot take — generalists and the mobile-radar story. |
