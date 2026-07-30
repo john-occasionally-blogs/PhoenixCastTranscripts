@@ -113,3 +113,17 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 29 | Website | Trend Micro's ransomware definition | Trend Micro | John | 00:01:36 | "I went to my good friend, the Googles" — the working definition the episode riffs on. |
 | 29 | Film | _Hackers_ (1995) | Iain Softley (dir.) | Kyle | 00:05:46 | Social engineering "is literally the opening scene" — "my favorite movie of all time." |
 | 29 | Website | CrowdStrike and FireEye threat reporting | CrowdStrike / FireEye (Mandiant) | Kyle | 00:43:48 | "They have really good reporting on these things" — where to follow the evolving story. |
+| 19 | Book | _The Phoenix Project_ | Gene Kim, Kevin Behr, George Spafford | Gen. Glavy | 00:40:39 | The cast's namesake — "couldn't put the damn thing down"; recommends it to senior leaders: "if you want to know what my life is like." |
+| 19 | Book | _The Defence of Duffer's Drift_ | Ernest Swinton | Gen. Glavy | 00:40:54 | His comparison for The Phoenix Project — "nothing's going to go right here." |
+| 19 | Book | _The Kill Chain_ | Christian Brose | Gen. Glavy | 00:41:37 | "You guys talked about that one in a past podcast" — how the DoD defends the nation. |
+| 19 | Book | _The Hundred-Year Marathon_ | Michael Pillsbury | Gen. Glavy | 00:42:03 | "Along those same lines… really appropriate." |
+| 19 | Book | _Scrum: The Art of Doing Twice the Work in Half the Time_ | Jeff Sutherland | Gen. Glavy | 00:43:01 | Incremental success over time leading to greatness; echoes Marine small-unit leadership. |
+| 19 | Book | _Measure What Matters_ | John Doerr | Gen. Glavy | 00:43:27 | OKRs — "what we got to do and how we got to do it." |
+| 19 | Book | _The Hard Thing About Hard Things_ | Ben Horowitz | Gen. Glavy | 00:43:53 | Read when he first took command; hosts concur: "great book, sir." |
+| 19 | Book | _Cyber War_ | Richard A. Clarke | Gen. Glavy | 00:44:59 | "A really good starting point for what we do." |
+| 19 | Book | _LikeWar_ and _Ghost Fleet_ | P.W. Singer (with E.T. Brooking / August Cole) | Gen. Glavy | 00:45:03 | "I've always liked the Singer books." |
+| 19 | Book | _Thank You for Being Late_ (and _From Beirut to Jerusalem_) | Thomas Friedman | Gen. Glavy | 00:45:10 | The 2007 chapters on the year "so many things happened that changed the course of cyber and IT." |
+| 19 | Book | Malcolm Gladwell's 10,000-hours idea (_Outliers_, implied) | Malcolm Gladwell | Gen. Glavy | 00:06:26 | Do something 10,000 times and be really great at it. |
+| 19 | Concept | Col. John Boyd — the OODA loop and "people, ideas, and things" (the Boyd Trinity) | Col. John Boyd, USAF | Gen. Glavy / Rich | 00:29:05 | Insight-imagination-innovation as a modern OODA loop; the sign inside Lasswell Hall. |
+| 19 | Publication | The Commandant's Professional Reading List (new cyber additions) | U.S. Marine Corps | Kyle | 00:37:56 | "Books added… that covered the cyber domain… made my heart super happy." |
+| 19 | Publication | MCDP 7 _Learning_ and MCDP 1-4 _Competing_ (with MCDP 1 _Warfighting_) | U.S. Marine Corps (Gen. Berger) | Rich | 00:51:23 | The first MCDPs in ~20 years — operating without superiority, competing constantly. |
