@@ -48,3 +48,15 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 67 | TV show | _Voltron_ | World Events Productions | Jeremy Winters (guest) | 00:17:55 | Casual — the MACCS "is like Voltron. But with Marines." |
 | 67 | Other (viral video) | "Leeroy Jenkins" | WoW community | Jeremy Winters (guest) | 00:37:20 | "Full Leeroy Jenkins" — first reference on the podcast. |
 | 67 | Other (TV commercial) | USMC recruiting commercial (L-MADIS) | U.S. Marine Corps | Jeremy Winters (guest) | 00:23:30 | Quadcopters downed by EW; Kyle invokes the "lava monster" ad in reply. |
+| 66 | Blog / newsletter | _This Week in 4n6_ | Phill Moore | Jessica Hyde (guest) | 00:12:21 | Weekly DFIR roundup; Kyle buys Phill a coffee live on-air. |
+| 66 | Website | DFIR Diva | Elan | Jessica Hyde (guest) | 00:10:37 | Catalog of free/low-cost DFIR training — the starting point. |
+| 66 | Website | Cyber5W intro courses | Cyber5W | Jessica Hyde (guest) | 00:10:52 | Free intro forensics courses. |
+| 66 | Website | CyberDefenders.org blue-team CTFs | CyberDefenders | Jessica Hyde (guest) | 00:11:10 | Practice CTFs with public write-ups. |
+| 66 | Online community | Digital Forensics Discord | community | Jessica Hyde (guest) | 00:14:24 | 11,000+ forensicators. |
+| 66 | YouTube channel | _DFIR Science_ | Joshua James | Jessica Hyde (guest) | 00:14:47 | Hands-on instruction. |
+| 66 | YouTube channel | _13Cubed_ | Richard Davis | Jessica Hyde (guest) | 00:14:53 | Hands-on instruction. |
+| 66 | Journal | _Forensic Science International: Digital Investigation_ | Elsevier | Jessica Hyde (guest) | 00:01:37 | "The big academic journal in our field." |
+| 66 | Paper | Chromebook acquisition methodology (DFIR Review) + SWGDE Chromebook article | Daniel Dickerman; SWGDE | Jessica Hyde (guest) | 00:22:12 | The documented Chromebook acquisition path. |
+| 66 | Publication | _Talent Management 2030_ | U.S. Marine Corps (Gen. Berger) | Jessica Hyde (guest) | 00:52:47 | "Listening in my car cheering"; frames her retention advice. |
+| 66 | Online course | A Cloud Guru | Pluralsight | Kyle | 01:12:16 | Favorite cloud training site. |
+| 66 | Online course | Hexordia free mobile-forensics courses | Jessica Hyde | Jessica Hyde (guest) | 01:09:50 | Five free bite-sized courses; endorsed in Kyle's hot take. |
