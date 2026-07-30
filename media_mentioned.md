@@ -13,3 +13,7 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 128 | Book | _Range_ | David Epstein | Kyle | 01:04:22 | Explicit recommendation in his hot take on cross-training vs. specialization. |
 | 128 | Book | _Ender's Game_ | Orson Scott Card | John | 00:32:23 | Gamification of training — war fighting without knowing you're war fighting. |
 | 128 | Publication | MCDP 1 _Warfighting_ ("the green book") | U.S. Marine Corps | Rich | 00:27:43 | License to innovate with stubby-pencil warfighting concepts outside formal curriculum. |
+| 121 | Book series | _U.S. Army in World War II_ ("the Green Books") — Signal Corps volumes | U.S. Army Center of Military History | Brian Kerg (guest) | 00:05:57 | CBI-theater Signal Corps history inspired Thunderstruck's austere-comms ethos. |
+| 121 | Publication | MCDP 1-4 _Competing_ | U.S. Marine Corps (Gen. David Berger) | Rich | 00:15:48 | "The quintessential manifestation of that pub"; five quotes structure his knife hand. |
+| 121 | Essay | "A Message to Garcia" | Elbert Hubbard | Brian Kerg (guest) | 00:25:36 | Teams get the task and are expected to figure out the how. |
+| 121 | TV show | _Game of Thrones_ | HBO (from George R.R. Martin) | Kyle | 00:48:52 | Casual "destination television" reference in the hot take. |
