@@ -32,3 +32,19 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 101 | Film | _The Matrix_ | The Wachowskis | Kyle | 00:43:56 | Casual — "Do you call them a Neo?" (uncertain) |
 | 73 | Paper | Defense Innovation Board software study ("Software Is Never Done," 2019) | Defense Innovation Board | Charlie Bahk (guest) | 00:06:42 | The "landmark study" recommending each service build organic software development capability. |
 | 73 | Film | _Office Space_ | Mike Judge (1999) | Kyle | 00:08:02 | Casual — "a great attitude and 31 pieces of flair." |
+| 67 | Book | _The Kill Chain_ | Christian Brose | John | 00:39:55 | "Fan favorite of all three hosts"; Winters is a Brose fanboy — "he signed my book." |
+| 67 | Film | _Top Gun: Maverick_ | Joseph Kosinski (2022) | Kyle | 00:09:07 | Frames the "what does the MACG do" question. |
+| 67 | Book | _The Art of War_ | Sun Tzu | Jeremy Winters (guest) | 00:43:59 | "The acme of skill" — deterrence as victory. |
+| 67 | Book | _Limitless_ | Jim Kwik | Jeremy Winters (guest) | 01:10:19 | Currently reading, via Lt. Gen. Cavanaugh. |
+| 67 | Book | _Three Dangerous Men_ | Seth G. Jones | Jeremy Winters (guest) | 01:10:30 | Next in queue, via Gen. Mahlock. |
+| 67 | Book | _Legacy_ | James Kerr | Jeremy Winters (guest) | 01:10:40 | All Blacks culture book via Commandant Neller; "I cite this book all the time." |
+| 67 | Book | _Burn-In_ | P.W. Singer & August Cole | Jeremy Winters (guest) | 01:12:21 | "Peter Singer… pacing authors for me." |
+| 67 | Podcast | _Moments in Leadership_ | Former Marine artillery officer host | Jeremy Winters (guest) | 01:12:53 | Top rec besides the Phoenix Cast — long-form senior-leader interviews. |
+| 67 | Radio show | _The Howard Stern Show_ | Howard Stern | Jeremy Winters (guest) | 01:13:05 | Casual — long-form interview style comparison. |
+| 67 | Publication | MCDP 6 _Command and Control_ | U.S. Marine Corps | Jeremy Winters (guest) | 00:52:12 | "The commander is the expert." |
+| 67 | Publications | MCDP 1; MCDP 1-4 _Competing_; MCDP 7 _Learning_ | U.S. Marine Corps | Rich | 01:17:57 | Closing knife hand reading list. |
+| 67 | Film | _Animal House_ | John Landis (1978) | Jeremy Winters (guest) | 00:03:09 | Casual — "Delta Tau Chi call sign is now Fez." |
+| 67 | Film series | _Star Wars_ | George Lucas | Jeremy Winters (guest) | 00:17:44 | Casual — MACG as "a Star Wars cantina bar." |
+| 67 | TV show | _Voltron_ | World Events Productions | Jeremy Winters (guest) | 00:17:55 | Casual — the MACCS "is like Voltron. But with Marines." |
+| 67 | Other (viral video) | "Leeroy Jenkins" | WoW community | Jeremy Winters (guest) | 00:37:20 | "Full Leeroy Jenkins" — first reference on the podcast. |
+| 67 | Other (TV commercial) | USMC recruiting commercial (L-MADIS) | U.S. Marine Corps | Jeremy Winters (guest) | 00:23:30 | Quadcopters downed by EW; Kyle invokes the "lava monster" ad in reply. |
