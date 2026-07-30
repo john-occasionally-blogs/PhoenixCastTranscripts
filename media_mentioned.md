@@ -71,3 +71,11 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 61 | Film | _A Few Good Men_ | Rob Reiner (1992) | John | 00:28:21 | "You want me on that wall" — how movies bound institutional thinking. |
 | 61 | Publication | FMFM 1 → MCDP 1 _Warfighting_ | U.S. Marine Corps | Scott Cuomo (guest) | 00:52:44 | Born of Gen. Gray's movie-theater force-on-force debriefs. |
 | 61 | Book | _Range: Why Generalists Triumph in a Specialized World_ | David Epstein | Kyle | 01:18:22 | Hot take — generalists and the mobile-radar story. |
+| 43 | Publication | _Talent Management 2030_ (and its Executive Summary) | U.S. Marine Corps (Gen. David Berger) | Rich / John | 00:00:45 | The episode's subject — the hosts step through the ExSum section by section; both documents promised in the show notes. |
+| 43 | Publication | _Force Design 2030_ | U.S. Marine Corps (Gen. David Berger) | Rich | 00:09:47 | "His seminal document" — the transformation TM2030 supports. |
+| 43 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 00:09:23 | First of the commandant's "pivotal documents" since 2019; Kyle cites it again at 00:17:34. |
+| 43 | Publication | MCDP 1-4, _Competing_ | U.S. Marine Corps | Rich | 00:09:27 | "The second one being competition" (title inferred from description). |
+| 43 | Online course | LinkedIn Learning | LinkedIn | Kyle | 00:18:36 | Soft skills, people management, finance — how the civilian world develops talent. |
+| 43 | Online course | A Cloud Guru | Pluralsight | Kyle | 00:18:45 | "Learn anything you want about any piece of technology that relates to any cloud provider." |
+| 43 | Website | YouTube | Google | Kyle | 00:18:54 | "Learn how to do anything" — a single 10-minute video at double speed. |
+| 43 | Book | _Drive_ (title inferred — Pink's money/motivation argument) | Daniel Pink | Kyle | 00:28:39 | "Make just enough money where money's not the issue" — incentives beyond pay. |
