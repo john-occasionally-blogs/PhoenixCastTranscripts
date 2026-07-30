@@ -130,3 +130,10 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 11 | Website | ipSpace.net container webinars | Ivan Pepelnjak (ipSpace.net) | John | 00:47:49 | "A place I always like to go to" — planning to watch their container webinars. |
 | 11 | Image | The "Pizza as a Service" diagram (seen on LinkedIn) | widely-shared graphic (orig. Albert Barron) | John | 00:58:19 | IaaS/PaaS/SaaS explained as pizza — "pretty good… didn't necessarily completely get me there." |
 | 11 | Publication | Google Cloud Adoption Framework and the AWS Migration Acceleration Program assessments | Google / AWS | Kyle | 00:53:59 | The self-assessment tools for cloud maturity — "I throw everything through this." |
+| 27 | Podcast | The Idealcast (episode with Adm. John Richardson quoting Mahlock) | Gene Kim | John | 00:01:40 | The general has been quoted on Phoenix Cast twice and on Gene Kim's podcast. |
+| 27 | Book | The Infinite Game | Simon Sinek | Gen. Mahlock (+ Kyle) | 00:07:21 | "Codifies what we're doing right now"; Kyle: his CEO's favorite book. |
+| 27 | Book | Thank You for Being Late | Thomas Friedman | Gen. Mahlock | 00:07:49 | "Another really good book" — technological accelerations changing how we work. |
+| 27 | Publication | Marine Corps Network Modernization Plan ("NetMod") | HQMC IC4 | Gen. Mahlock, John | 00:20:59 | First inaugural plan; John's "rare plug": read it and submit edits. |
+| 27 | Publication | MARADMIN 157/21 (Task Force Phoenix innovation challenge) | U.S. Marine Corps | John | 00:49:00 | Top cover/structure for Marines to build solutions with enterprise tools. |
+| 27 | Article | Harvard Business article on morphing agile ("chief slowdown officers") | Harvard Business Review | Rich | 00:53:00 | Given to Rich by BGen Anderson; senior leaders as deliberate brakes. |
+| 27 | Publication | Force Design (2030) | Gen. David Berger, USMC | Gen. Mahlock | 00:04:51 | "If you read Force Design, you got to think the Commandant was pretty impressive." |
