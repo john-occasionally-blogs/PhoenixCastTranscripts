@@ -30,3 +30,5 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 101 | Paper | "United States Cyber Force: A Defense Imperative" | FDD | John | 00:43:02 | "We are in alignment with the FDD… let's continue to study it." |
 | 101 | Film series | _The Lord of the Rings_ | J.R.R. Tolkien / Peter Jackson | Kyle | 00:29:03 | Casual — "You have my sword, my axe, my bow." |
 | 101 | Film | _The Matrix_ | The Wachowskis | Kyle | 00:43:56 | Casual — "Do you call them a Neo?" (uncertain) |
+| 73 | Paper | Defense Innovation Board software study ("Software Is Never Done," 2019) | Defense Innovation Board | Charlie Bahk (guest) | 00:06:42 | The "landmark study" recommending each service build organic software development capability. |
+| 73 | Film | _Office Space_ | Mike Judge (1999) | Kyle | 00:08:02 | Casual — "a great attitude and 31 pieces of flair." |
