@@ -105,3 +105,8 @@ Every book, podcast, article, paper, film, show, talk, or other media mentioned 
 | 31 | Publication | MCDP 7, _Learning_ | U.S. Marine Corps | Rich | 01:07:16 | "Education and training equal competence." |
 | 31 | Publication | Marine Corps Network Modernization Plan (version two) | DC I / U.S. Marine Corps | Gen. Reynolds / John | 00:24:27 | Gathers all network spending in one portfolio; "we have plugged that net mod plan in previous podcasts." |
 | 31 | Publication | Force Design 2030 | Gen. David Berger | Rich / Gen. Reynolds | 00:50:07 | "No other service modernization effort that is as coherent"; the stand-in/sensing force and information's place in it. |
+| 30 | Article | NPR's reporting on JTF-ARES and Operation Glowing Symphony | NPR (Dina Temple-Raston) | Gen. Anderson | 00:04:28 | "The first year… it was like Fight Club" — until USCYBERCOM went public about countering ISIS propaganda. |
+| 30 | Publication | Irregular Warfare Annex to the National Defense Strategy | U.S. Department of Defense | Gen. Anderson | 00:23:29 | Published classified and unclassified; even a conventional force can't lose the thread of irregular warfare. |
+| 30 | Book | _The Demon-Haunted World_ | Carl Sagan | Kyle | 00:36:44 | Professional-level skepticism of everything you see — "my default is distrust." |
+| 30 | Podcast | Packet Pushers | Packet Pushers Interactive | John | 00:53:15 | Cyber-insurance premiums rising as insurers field their own incident-response teams. |
+| 30 | Website | Duffel Blog (and The Onion) | — | Gen. Anderson / John | 00:41:08 | Satire he enjoys knowingly — vs. the misattributed Commandant quote that caused a national uproar. |
