@@ -71,7 +71,7 @@ Corrected transcript: `phoenix_cast_027_bgen_mahlock_ic4_transcript_corrected.md
 
 ## 5. Date/version/casing formatting
 
-April 2021 context checks out: MARADMIN 157/21 (the Task Force Phoenix innovation challenge) is a real March 2021 MARADMIN; the ACMC January infrastructure decision, CVR-to-O365 transition, Network Modernization Plan ("NetMod"), 1st Network Battalion, and General Smith at CD&I all fit the date. Full three-host lineup plus the standard outro (editor Sarah Clarkson; marketing support credited to Hector Alejandro this episode rather than the usual Jake Osborne — left as transcribed).
+April 2021 context checks out: MARADMIN 157/21 (the Task Force Phoenix innovation challenge) is a real March 2021 MARADMIN; the ACMC January infrastructure decision, CVR-to-O365 transition, Network Modernization Plan ("NetMod"), 1st Network Battalion, and General Smith at CD&I all fit the date. Full three-host lineup plus the standard outro (editor Sarah Clarkson; marketing support credited to Hector Alejandro — confirmed by John: Hector was the show's marketing support before Jake Osborne took over, consistent with the April 2021 date).
 
 ## 6. Media mentioned
 
